@@ -1,0 +1,30 @@
+{
+  "name": "mxiaomi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "art-template": "^4.13.2",
+    "babel-loader": "^8.0.6",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-webserver": "^0.9.1",
+    "http-proxy-middleware": "^0.19.1",
+    "node-sass": "^4.12.0",
+    "string-loader": "^0.0.1",
+    "webpack-stream": "^5.2.1",
+    "yo3": "^3.1.8"
+  },
+  "scripts": {
+    "dev": "gulp -f gulpfile-dev.js",
+    "build": "gulp -f gulpfile-prod.js"
+  }
+}

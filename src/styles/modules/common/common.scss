@@ -1,0 +1,17 @@
+#app{
+    user-select: none;
+    text-align: center;
+    color: #3c3c3c;
+    text-size-adjust: none;
+}
+.container nav{
+    overflow-x: auto;
+    background: #f2f2f2;
+    font-size: .26rem;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+.icon-down-up{
+    transform: rotate(180deg);
+}
