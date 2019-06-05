@@ -26,5 +26,9 @@
   "scripts": {
     "dev": "gulp -f gulpfile-dev.js",
     "build": "gulp -f gulpfile-prod.js"
+  },
+  "dependencies": {
+    "better-scroll": "^1.15.2",
+    "query-string": "^6.5.0"
   }
 }
