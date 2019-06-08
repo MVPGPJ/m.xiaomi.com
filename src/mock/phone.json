@@ -1,0 +1,212 @@
+{
+    "code": 0,
+    "data": {
+        "recommend_list": [{
+            "product_id": "8152",
+            "commodity_id": "8152",
+            "name": "小米8 SE 6GB+64GB",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/fb3fc5df8e762c4a96f0cdd59670070c.jpg",
+            "action": {
+                "type": "product",
+                "path": "8152",
+                "log_code": "recom_product_12-0#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8152",
+                "recommend_code": "recom_product_12-0#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8152"
+            },
+            "big_image_url": "",
+            "price": "1599",
+            "market_price": "1999",
+            "product_desc": "小屏旗舰机，AI超感光双摄",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9455",
+            "commodity_id": "9455",
+            "name": "Redmi Note 7 Pro",
+            "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/26ea9dd7b0204bd833cf775304851e9e.jpg",
+            "action": {
+                "type": "product",
+                "path": "9455",
+                "log_code": "recom_product_12-1#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9455",
+                "recommend_code": "recom_product_12-1#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9455"
+            },
+            "big_image_url": "",
+            "price": "1599",
+            "market_price": "1599",
+            "product_desc": "索尼4800万超清拍照 ",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8147",
+            "commodity_id": "8147",
+            "name": "小米8 6GB+128GB",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/5ad3446c3de6a0d444089b899264c4ee.jpg",
+            "action": {
+                "type": "product",
+                "path": "8147",
+                "log_code": "recom_product_12-2#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8147",
+                "recommend_code": "recom_product_12-2#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8147"
+            },
+            "big_image_url": "",
+            "price": "2599",
+            "market_price": "2999",
+            "product_desc": "相机全新升级，骁龙845",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9205",
+            "commodity_id": "9205",
+            "name": "Redmi Note 7",
+            "image_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/178f56b4973bac912d4d5a0190e9ac83.jpg",
+            "action": {
+                "type": "product",
+                "path": "9205",
+                "log_code": "recom_product_12-3#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9205",
+                "recommend_code": "recom_product_12-3#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9205"
+            },
+            "big_image_url": "",
+            "price": "1199",
+            "market_price": "1199",
+            "product_desc": "4800万拍照千元机",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9619",
+            "commodity_id": "9619",
+            "name": "小米 Play 4GB+64GB",
+            "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a183eae8ce729005a1e1bf2907f6d51d.png",
+            "action": {
+                "type": "product",
+                "path": "9619",
+                "log_code": "recom_product_12-4#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9619",
+                "recommend_code": "recom_product_12-4#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9619"
+            },
+            "big_image_url": "",
+            "price": "999",
+            "market_price": "999",
+            "product_desc": "5.84\"小水滴全面屏",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8802",
+            "commodity_id": "8802",
+            "name": "小米8 屏幕指纹版 6GB内存",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/34a18aa1149fadb391a7c405435934db.jpg",
+            "action": {
+                "type": "product",
+                "path": "8802",
+                "log_code": "recom_product_12-5#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8802",
+                "recommend_code": "recom_product_12-5#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8802"
+            },
+            "big_image_url": "",
+            "price": "2499",
+            "market_price": "2999",
+            "product_desc": "压感屏幕指纹，手持超级夜景",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8146",
+            "commodity_id": "8146",
+            "name": "小米8 6GB+64GB",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/1d696ab2652d99e25148b64fee1cb643.jpg",
+            "action": {
+                "type": "product",
+                "path": "8146",
+                "log_code": "recom_product_12-6#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8146",
+                "recommend_code": "recom_product_12-6#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8146"
+            },
+            "big_image_url": "",
+            "price": "2299",
+            "market_price": "2699",
+            "product_desc": "相机全新升级，骁龙845",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9171",
+            "commodity_id": "9171",
+            "name": "小米Play 6GB+64GB",
+            "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a183eae8ce729005a1e1bf2907f6d51d.png",
+            "action": {
+                "type": "product",
+                "path": "9171",
+                "log_code": "recom_product_12-7#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9171",
+                "recommend_code": "recom_product_12-7#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9171"
+            },
+            "big_image_url": "",
+            "price": "1299",
+            "market_price": "1299",
+            "product_desc": "5.84\"小水滴全面屏",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9379",
+            "commodity_id": "9379",
+            "name": "小米9 SE 6GB+64GB",
+            "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d93eb2471294637c566628e26d583081.jpg",
+            "action": {
+                "type": "product",
+                "path": "9379",
+                "log_code": "recom_product_12-8#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9379",
+                "recommend_code": "recom_product_12-8#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9379"
+            },
+            "big_image_url": "",
+            "price": "1999",
+            "market_price": "1999",
+            "product_desc": "4800万三摄/骁龙712处理器",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "9148",
+            "commodity_id": "9148",
+            "name": "小米Play 4GB+64GB",
+            "image_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a183eae8ce729005a1e1bf2907f6d51d.png",
+            "action": {
+                "type": "product",
+                "path": "9148",
+                "log_code": "recom_product_12-9#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9148",
+                "recommend_code": "recom_product_12-9#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=9148"
+            },
+            "big_image_url": "",
+            "price": "1099",
+            "market_price": "1099",
+            "product_desc": "自带高速流量",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "7895",
+            "commodity_id": "7895",
+            "name": "小米6X 6GB+64GB",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/cf8df89713342d51d01bff5ed1bced57.jpg",
+            "action": {
+                "type": "product",
+                "path": "7895",
+                "log_code": "recom_product_12-10#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=7895",
+                "recommend_code": "recom_product_12-10#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=7895"
+            },
+            "big_image_url": "",
+            "price": "1299",
+            "market_price": "1799",
+            "product_desc": "前置2000万，后置2000万",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }, {
+            "product_id": "8864",
+            "commodity_id": "8864",
+            "name": "标准高透贴膜",
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/045c65e158210a4a30e1215d15ad6cbe.jpg",
+            "action": {
+                "type": "product",
+                "path": "8864",
+                "log_code": "recom_product_12-11#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8864",
+                "recommend_code": "recom_product_12-11#eid=24:19:0:0:0:0:0:0:0:0\u0026tid=DetailRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=product\u0026pid=8864"
+            },
+            "big_image_url": "",
+            "price": "9",
+            "market_price": "19",
+            "product_desc": "高清高透 防护出众",
+            "trace_id": "DetailRec-78cpaAwFqwUTL0eVFuqCzg==",
+            "eid": "24:19:0:0:0:0:0:0:0:0"
+        }],
+        "title": "为你推荐"
+    },
+    "result": "ok"
+}

@@ -3,23 +3,19 @@ export default {
   render() {
     $('#index').html(homeTpl)
 
-
-    // $('footer nav a').on('click', function () {
-    //   $(this).children('span').addClass('footer-color')
-    //     .parent()
-    //     .siblings()
-    //     .children('span')
-    //     .removeClass('footer-color')
-
-
-    //   console.log($(this).children('i').attr())
-    //   // $(this).children('i').attr()
-    //   if ($(this).index() === 0 || $(this).index()) {
-    //     $(this).children('i').removeClass('images-d').addClass('images-o-1')
-    //   } else {
-    //     $(this).children('i').addClass('images-d')
-    //   }
-
-    // })
+    // 实时监听屏幕宽度，改变字体大小
+    window.addEventListener('resize', changeSize)
+    function changeSize(){
+      let width = window.screen.width;
+      let font_size = 0;
+      if(width>414){
+        font_size = width/7.68;
+        $('html').attr('style',`font-size:${font_size}px`)
+      }else{
+        font_size = width/7.2;
+        $('html').attr('style',`font-size:${font_size}px`)
+      }
+    }
+    changeSize()
   }
 }

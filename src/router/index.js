@@ -1,6 +1,6 @@
 import index from '../controllers/index'
 import home from '../controllers/home'
-import homeHeader from '../controllers/home-header'
+// import homeHeader from '../controllers/home-header'
 import position from '../controllers/position'
 import category from '../controllers/category'
 import cart from '../controllers/cart'
@@ -168,14 +168,10 @@ export default class Router {
    * @param {string} name 
    */
   controller(name, item) {
-    if (name == position) {
-      name.render();
-      homeHeader.render();
-      this.navActive(item)
-    } else {
+    
       name.render() // name 是当前路由匹配的那个 controller
       this.navActive(item) // 切换路由时导航高亮
-    }
+    
   }
   /**
    * 手动跳转路由

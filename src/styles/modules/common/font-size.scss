@@ -1,4 +1,4 @@
-@mixin contentFont($base_size: '12px') {
+@mixin contentFont($base_size: '52.0834px') {
     @media screen and (max-width: 320px) {
       font-size: $base_size;
     }
