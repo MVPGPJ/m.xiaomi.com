@@ -29,19 +29,20 @@ function copyicons(){
 function webserver(){
     return src('./dev')
     .pipe(gulpWebserver({
-        host:'localhost',
+        host:'10.9.65.220',
         port:8000,
         livereload:true,
         middleware:[
-            proxy('./api',{
-                target:'https://m.lagou.com',
-                changeOrigin:true,
-                pathRewrite:{
-                    '^api':''
-                }
-            }),
+            // proxy('./category',{
+            //     target:'https://m.mi.com',
+            //     changeOrigin:true,
+            //     pathRewrite:{
+            //         '^category':''
+            //     }
+            // }),
             proxy('./json',{
-                target:'http://localhost:9000',
+                target:'http://localhost:9999',
+                changeOrigin:true,
                 pathRewrite:{
                     '^/json':''
                 }
