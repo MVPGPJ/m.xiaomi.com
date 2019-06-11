@@ -1,0 +1,14 @@
+<div class="box">
+{{each listItem value i}}
+
+    <div class="product">
+        <a href="javascript:void(0)">
+            <div class="img">
+                <img src="{{value['img_url_webp']}}" alt="">
+            </div>
+            <div class="name">{{value['product_name']}}</div>
+        </a>
+    </div>
+
+{{/each}}   
+</div>

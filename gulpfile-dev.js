@@ -33,14 +33,14 @@ function webserver(){
         port:8000,
         livereload:true,
         middleware:[
-            // proxy('./category',{
+            // proxy('./json',{
             //     target:'https://m.mi.com',
             //     changeOrigin:true,
             //     pathRewrite:{
-            //         '^category':''
+            //         '^json':''
             //     }
             // }),
-            proxy('./json',{
+            proxy('/json',{
                 target:'http://localhost:9999',
                 changeOrigin:true,
                 pathRewrite:{
