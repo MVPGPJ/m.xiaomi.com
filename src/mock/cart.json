@@ -1,0 +1,330 @@
+{
+    "code": 0,
+    "data": {
+      "header": {
+        "view_type": "cells_auto_fill",
+        "body": {
+          "w": 720,
+          "h": 120,
+          "height": "0",
+          "width": "0",
+          "items": [
+            {
+              "w": 720,
+              "h": 120,
+              "img_url": "//i8.mifile.cn/b2c-mimall-media/e95ade2750a7fde92369b416c7d3176d.jpg",
+              "path_type": "image",
+              "margin_left": 0,
+              "margin_right": 0
+            }
+          ],
+          "margin_left": 0,
+          "margin_right": 0
+        }
+      },
+      "recom_list": [
+        {
+          "action": {
+            "type": "product",
+            "path": "8582",
+            "log_code": "recom__0-1#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8582",
+            "recommend_code": "recom__0-1#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8582"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/d8363af0be841e563792e2fc0e3811b1.jpg",
+          "is_multi_price": false,
+          "market_price": "39",
+          "name": "小米红外遥控器",
+          "price": "39",
+          "product_desc": "11键极简设计 / 软硅胶按键 / 最远遥控距离可达20米。适用于小米电视、盒子（小米盒子mini版、小米盒子3增强版、小米盒子4、分体电视除外）",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9452",
+            "log_code": "recom__0-2#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9452",
+            "recommend_code": "recom__0-2#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9452"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e31b0d904be2a014c35ab8681ab78de5.jpg",
+          "is_multi_price": false,
+          "market_price": "999",
+          "name": "小米路由器Mesh（两只装）",
+          "price": "999",
+          "product_desc": "多通道高速混合传输 / 高通4核CPU / 4颗独立信号放大器 / 256MB超大内存 / 千兆电力线 / 不分子母 / 专为小米智能家居优化",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9818",
+            "log_code": "recom__0-3#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9818",
+            "recommend_code": "recom__0-3#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9818"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/e4e5ab6450b3116756d5bbc4f0c5d66d.jpg",
+          "is_multi_price": false,
+          "market_price": "4999",
+          "name": "RedmiBook 14 ",
+          "price": "4999",
+          "product_desc": "<font color='#ff4a00'>「RedmiBook 14新品热卖中！i7 512GB版本券后价4899元！」</font>性能增强版酷睿™处理器 / GeForce ®MX250独显，全力升级 / 14寸超窄边框全高清屏幕 / 轻薄便携长续航 / 支持Modern Standby，小米手环疾速解锁",
+          "product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120&h=48"
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9144",
+            "log_code": "recom__0-4#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9144",
+            "recommend_code": "recom__0-4#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9144"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/425e29b004536f6de55c87d678977413.jpg",
+          "is_multi_price": false,
+          "market_price": "2699",
+          "name": "米家互联网空调（一级能效）",
+          "price": "2169",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”，6月12日限时特惠」「享小米分期3/6期免息」</font>1.5匹 / 全直流变频 / 高效制冷热 / 智能控制 / 售后无忧 / 官网渠道购买无需电话预约安装",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9558",
+            "log_code": "recom__0-5#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9558",
+            "recommend_code": "recom__0-5#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9558"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/ccfd18043892007a695bc321d4386f11.jpg",
+          "is_multi_price": false,
+          "market_price": "2799",
+          "name": "米家互联网空调C1（一级能效）",
+          "price": "2399",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”，享小米分期3/6期免息」</font>1.5匹 / 自清洁 / 全直流变频 / 高效制冷热 / 静音设计 / 全屋互联 / 售后无忧 / 官网渠道购买无需电话预约安装",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9183",
+            "log_code": "recom__0-6#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9183",
+            "recommend_code": "recom__0-6#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9183"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/8674c6a19801dde5419640af8a254597.jpg",
+          "is_multi_price": false,
+          "market_price": "1799",
+          "name": "米家空调",
+          "price": "1569",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”，6月12日限时特惠」「享小米分期3/6期免息」</font>大1匹 / 快速制冷热 / 除湿功能  / 降噪静音 / 广角送风 / 高密度过滤网  / 典雅外观 / 售后无忧 / 官网渠道购买无需电话预约安装",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9536",
+            "log_code": "recom__0-7#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9536",
+            "recommend_code": "recom__0-7#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9536"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/c33f008a86c151a1500d44d599351256.jpg",
+          "is_multi_price": false,
+          "market_price": "199",
+          "name": "小爱音箱万能遥控版",
+          "price": "199",
+          "product_desc": "一句话遥控传统家电 / 支持WiFi、红外、蓝牙控制家电 / 丰富的QQ音乐曲库 / 自定义闹钟 / 查询天气",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8634",
+            "log_code": "recom__0-8#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8634",
+            "recommend_code": "recom__0-8#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8634"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/a6d8084b0886755e37bd80145441a4fb.jpg",
+          "is_multi_price": false,
+          "market_price": "2299",
+          "name": "米家互联网空调",
+          "price": "1999",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”，享小米分期3/6期免息」</font>1.5 匹 / 变频 / 高效制冷热 / 售后无忧 / 官网渠道购买无需电话预约安装",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9233",
+            "log_code": "recom__0-9#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9233",
+            "recommend_code": "recom__0-9#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9233"
+          },
+          "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/c833ed96323699ee5b52e0c8d5800e4e.jpg",
+          "is_multi_price": false,
+          "market_price": "189",
+          "name": "小米盒子4 SE套装版",
+          "price": "189",
+          "product_desc": "人工智能系统 / 语音控制  / 海量片源 / 接口丰富 / 本套装包含小米盒子4 SE*1、小米高清数据线-1.5米*1",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9557",
+            "log_code": "recom__0-10#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9557",
+            "recommend_code": "recom__0-10#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9557"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/0afd0975bb3de1a1f0fd080041c46108.jpg",
+          "is_multi_price": false,
+          "market_price": "2399",
+          "name": "米家互联网空调C1",
+          "price": "2199",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”，享小米分期3/6期免息」</font>1.5匹 / 自清洁 / 变频 / 高效制冷热 / 静音设计 / 全屋互联 / 售后无忧 / 官网渠道购买无需电话预约安装",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9962",
+            "log_code": "recom__0-11#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9962",
+            "recommend_code": "recom__0-11#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9962"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/bcff3b4399d0ccbac6c93cf826b0b214.jpg",
+          "is_multi_price": false,
+          "market_price": "399",
+          "name": "小白智能摄像机 电池版",
+          "price": "399",
+          "product_desc": "无线安装 / 超长电池续航 / IP65防尘防水 / AI 人形侦测 / 远程语音对讲",
+          "product_tag": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120&h=48"
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9832",
+            "log_code": "recom__0-12#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9832",
+            "recommend_code": "recom__0-12#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9832"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/efada78a038b92d18137963431ae7da1.jpg",
+          "is_multi_price": false,
+          "market_price": "6299",
+          "name": "Air 13.3\" 2019款",
+          "price": "5899",
+          "product_desc": "酷睿i7处理器 / 轻薄全金属机身 / MX250独立显卡 / 9.5小时超长续航 / FHD全高清屏幕 / 指纹解锁 / 512GB固态硬盘 / 兼顾办公娱乐与轻薄的高性能笔记本",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9141",
+            "log_code": "recom__0-13#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9141",
+            "recommend_code": "recom__0-13#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9141"
+          },
+          "image_url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/abfc7bfbf002407bccc105595ff705f8.jpg",
+          "is_multi_price": false,
+          "market_price": "228",
+          "name": "黑鲨双翼手柄单滑轨保护壳套装-小米8定制版",
+          "price": "228",
+          "product_desc": "黑鲨双翼手柄单滑轨保护壳套装-小米8定制版",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8335",
+            "log_code": "recom__0-14#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8335",
+            "recommend_code": "recom__0-14#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8335"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/fc811e231a8a0507687472d505f512c2.jpg",
+          "is_multi_price": false,
+          "market_price": "948",
+          "name": "米连卡随身路由器套装",
+          "price": "599",
+          "product_desc": "4G全网通吃 ／ 光纤级4G网速 ／ 移动制式，全网通用",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8397",
+            "log_code": "recom__0-15#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8397",
+            "recommend_code": "recom__0-15#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8397"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/1c847811ec4c4e40204f91ca3e74a20c.jpg",
+          "is_multi_price": false,
+          "market_price": "1690",
+          "name": "100条装毛巾 最生活•Air",
+          "price": "1690",
+          "product_desc": "阿瓦提长绒棉 ／ 90g 轻柔速干 ／ 专利密封包装 ／ 3秒吸水 ／ 掉毛率近乎0 ／ 无致癌芳香胺8397 【此商品不参与满150元包邮活动】",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "9650",
+            "log_code": "recom__0-16#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9650",
+            "recommend_code": "recom__0-16#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=9650"
+          },
+          "image_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/33c8ab2a60421e06da8ae874079d12ba.jpg",
+          "is_multi_price": false,
+          "market_price": "188.9",
+          "name": "黑鲨手柄套装",
+          "price": "188.9",
+          "product_desc": "小身材，大作用 ／ 巧妙连接，轻松组合 ／ 手柄操控，战力十足",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8177",
+            "log_code": "recom__0-17#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8177",
+            "recommend_code": "recom__0-17#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8177"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/09a69ddb8fe89a5032fe0add9179cadc.jpg",
+          "is_multi_price": false,
+          "market_price": "256",
+          "name": "净水器滤芯全年套装",
+          "price": "234",
+          "product_desc": "按时更换，随时保证饮水品质",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8602",
+            "log_code": "recom__0-18#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8602",
+            "recommend_code": "recom__0-18#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8602"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/68791c12f66217b0eb7bde0a9d746596.jpg",
+          "is_multi_price": false,
+          "market_price": "4098",
+          "name": "电视4 55\" 影院版",
+          "price": "3698",
+          "product_desc": "<font color='#ff4a00'>「“小米618狂欢”」</font>本套装包含小米电视4 55英寸*1、小米电视音响*1",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8324",
+            "log_code": "recom__0-19#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8324",
+            "recommend_code": "recom__0-19#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8324"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/af4d5ceed1b48ae22971c7f9bce7e2e7.jpg",
+          "is_multi_price": false,
+          "market_price": "228",
+          "name": "滤水壶套装（1壶4芯）",
+          "price": "198",
+          "product_desc": "高效过滤，享安心好水",
+          "product_tag": ""
+        },
+        {
+          "action": {
+            "type": "product",
+            "path": "8178",
+            "log_code": "recom__0-20#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8178",
+            "recommend_code": "recom__0-20#eid=15:12:0:0:0:0:0:0:0:0&tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==&page=&pid=8178"
+          },
+          "image_url": "//i8.mifile.cn/b2c-mimall-media/713039af6eb170be60ff500b2f538c65.jpg",
+          "is_multi_price": false,
+          "market_price": "814",
+          "name": "净水器滤芯两年套装",
+          "price": "768",
+          "product_desc": "PP棉*3、前置活性炭*1、后置活性炭*1、反渗透*1",
+          "product_tag": ""
+        }
+      ],
+      "title": "为你推荐"
+    },
+    "result": "ok"
+  }

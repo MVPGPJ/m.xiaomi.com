@@ -5,6 +5,8 @@ import category from '../controllers/category'
 import cart from '../controllers/cart'
 import user from '../controllers/user'
 import search from '../controllers/search'
+import listPhone from '../controllers/listPhone'
+
 
 export default class Router {
   constructor(obj) {
@@ -16,6 +18,7 @@ export default class Router {
       '/index/home': home,
       // '/index/details': details,
       '/index/search': search,
+      '/index/search/listPhone': listPhone,
       '/index/home/position': position,
       '/index/home/category': category,
       '/index/home/cart': cart,

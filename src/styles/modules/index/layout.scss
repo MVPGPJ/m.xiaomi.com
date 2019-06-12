@@ -999,6 +999,9 @@
                     padding-left: 1.84rem;
                     padding-right: .32rem;
                     overflow: auto;
+                    .list-item:last-child{
+                        min-height: calc(100vh - .8rem);
+                    }
                     .cells_auto_fill{
                         a{
                             // height: auto!important;
@@ -1086,6 +1089,159 @@
                     }
                 }
             }
+
+            //cart模块
+            .cart{
+                position: relative;
+                max-width: 7.2rem;
+                margin: 0 auto;
+                .cart-list{
+                    // padding-bottom: 52px;
+                    // padding-top: 50px;
+                    background: #fff;
+                    color: #3c3c3c;
+                    max-width: 100%;
+                    width: 100%;
+                    margin-right: auto;
+                    margin-left: auto;
+                    -webkit-flex-basis: 100%;
+                    flex-basis: 100%;
+                    .page-wrap{
+                        height: 100%;
+                        overflow-x: hidden;
+                        overflow-y: auto;
+                        .nologin{
+                            a{
+                                display: flex;
+                                height: 1.04rem;
+                                padding: 0 .56rem 0 .32rem;
+                                position: relative;
+                                align-items: center;
+                                justify-content: space-between;
+                                color: rgba(0,0,0,.54);
+                                span{
+                                    font-size: .32rem;
+                                    color: rgba(0,0,0,.87);
+                                    display: block;
+                                    text-align: left;
+                                    flex: 1 1 auto;
+                                }
+                                em{
+                                    font-style: normal;
+                                    font-size: .24rem;
+                                    text-align: right;
+                                    flex: 1 1 auto;
+                                }
+                            }
+                            a:after{
+                                content: "";
+                                position: absolute;
+                                right: .32rem;
+                                top: 50%;
+                                width: .18rem;
+                                height: .18rem;
+                                border-left: 1px solid currentColor;
+                                border-top: 1px solid currentColor;
+                                transform: translate3d(0,-50%,0) rotate(135deg);
+                            }
+                        }
+                        .noitems{
+                            background: #ebebeb;
+                            padding: .2rem;
+                            a{
+                                height: 1.44rem;
+                                font-size: .24rem;
+                                text-decoration: none;
+                                text-align: center;
+                                span{
+                                    display: inline-block;
+                                    line-height: .8rem;
+                                    background: url('https://m.mi.com/static/img/cartnull.daaf7926f8.png') no-repeat 0;
+                                    background-size: auto 100%;
+                                    padding: 0 .16rem 0 .96rem;
+                                    color: rgba(0,0,0,.27);
+                                }
+                                em{
+                                    display: inline-block;
+                                    border: 1px solid rgba(0,0,0,.15);
+                                    box-sizing: border-box;
+                                    height: .5rem;
+                                    line-height: .5rem;
+                                    padding: 0 .24rem;
+                                    color: rgba(0,0,0,.87);
+                                    font-style: normal;
+                                }
+                            }
+                        }
+                        .recommend{
+                            background: #fff;
+                            text-align: left; 
+                            padding-bottom: .9rem;
+                            .top-img{
+                                width: 7.2rem;
+                                img{
+                                    width: 7.2rem;
+                                    height: 1.2rem;
+                                }
+                            }
+                            .list{
+                                overflow: hidden;
+                                flex-wrap: wrap;
+                                flex-direction: row;
+                                display: flex;
+                                flex: 1 1 auto;
+                                align-items: center;
+                                align-content: flex-start;
+                                justify-content: space-between;
+                                .goods-item{
+                                    flex: 0 1 49.5%;
+                                    overflow: hidden;
+                                    a{
+                                        display: block;
+                                        background-color: transparent;
+                                        color: #3c3c3c;
+                                        .img-box{
+                                            position: relative;
+                                            text-align: left;
+                                            img{
+                                                display: block;
+                                                width: 100%;
+                                                min-height: 3.56rem;
+                                            }
+                                        }
+                                        .goods-info{
+                                            padding: .18rem .26rem .22rem;
+                                            .goods-name{
+                                                font-size: .28rem;
+                                                overflow: hidden;
+                                                text-overflow: ellipsis;
+                                                white-space: nowrap;
+                                            }
+                                            .goods-price{
+                                                position: relative;
+                                                padding-left: .5em;
+                                                line-height: 1em;
+                                                font-size: .32rem;
+                                                display: inline-block;
+                                                color: #ff6700;
+                                                margin-top: .1rem;
+                                            }
+                                            .goods-price:before{
+                                                content: "\A5";
+                                                position: absolute;
+                                                left: 0;
+                                                top: 0;
+                                                font-size: .76em;
+                                                text-decoration: none;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
 
         footer {
@@ -1163,11 +1319,16 @@
             position: relative;
             max-width: 7.2rem;
             margin: 0 auto;
+            
 
             .search-view {
                 background: #fff;
                 color: #3c3c3c;
                 padding-top: .8rem;
+                position: fixed;
+                left: 50%;
+                margin-left: -3.6rem;
+                width: 7.2rem;
 
                 .head {
                     display: flex;
@@ -1349,6 +1510,15 @@
                                 color: rgba(0, 0, 0, .54);
                             }
                         }
+                    }
+                }
+
+                // 手机列表类
+                >a{
+                    width: 100%;
+                    display: block;
+                    img{
+                        width: 100%;
                     }
                 }
             }

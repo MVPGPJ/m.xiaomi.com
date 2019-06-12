@@ -69,23 +69,24 @@ const render = async () => {
     let ht = 0
     $('.list-navbar ul li').on('click',function(){
         for(let i = 0; i < $(this).index();i++){
-            ht += $(`.category${i}`).height()
+            ht += $(`.category${i}`).height() + $('html').css('font-size').substring(0,7) * 0.2
         }
         document.documentElement.scrollTop = ht;
         ht = 0
+        // event.stopPropagation();
     })
     
 
     let change = [];
 
     for(let i = 0;i<$('.list-wrap .list-item').length;i++){
-        ht += $(`.category${i}`).height()
+        ht += $(`.category${i}`).height() + $('html').css('font-size').substring(0,7) * 0.2
         change.push(ht)
     }
     
 
-    //暂时存在缺陷
-    $(document).on('scroll',function(){
+    //暂时存在缺陷 
+    $('.list_wrap').on('scroll',function(){
         let top = document.documentElement.scrollTop;
         if(top <= change[0]){
             $('.list-navbar ul li').eq(0).addClass('active').siblings().removeClass('active')
@@ -165,6 +166,7 @@ const render = async () => {
         if(top >= change[25]){
             $('.list-navbar ul li').eq(25).addClass('active').siblings().removeClass('active')
         }
+        event.stopPropagation();
     })
 
 }

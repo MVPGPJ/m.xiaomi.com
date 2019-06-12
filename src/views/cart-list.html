@@ -1,0 +1,13 @@
+{{each data value i}}
+<div class="goods-item">
+    <a href="javascript:void(0)">
+        <div class="img-box">
+            <img src="{{value['image_url']}}" alt="">
+        </div>
+        <div class="goods-info">
+            <div class="goods-name">{{value['name']}}</div>
+            <div class="goods-price">{{value['price']}}</div>
+        </div>
+    </a>
+</div>
+{{/each}}
