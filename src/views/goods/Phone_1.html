@@ -1,0 +1,86 @@
+{{each data value i}}
+{{if value['view_type'] == 'view_search_product' }} 
+
+{{if value['body']['class_parameters']['list'].length == 0 }} 
+
+<div class="item-box">
+        <a href="javascript:void(0)">
+            <img class="item-img"
+                src="{{value['body']['image']}}"
+                alt="">
+            {{if value['body']['is_multi_price'] == true}}  
+            <div class="icon-left">
+                <img src="http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120&h=48"
+                    alt="">
+            </div>
+            {{/if}}
+            <div class="item-con">
+                <h3 class="mt">{{value['body']['name']}}</h3>
+                <p class="item-desc yinghao">{{value['body']['desc']}}"</p>
+                <div class="item-price">
+                    <sub>¥</sub>{{value['body']['price']}}
+                    {{if value['body']['market_price'] == value['body']['price']}}  
+                    <span class="spe">起</span>
+                    {{/if}}
+                    <span class="icon-box"></span>
+                </div>
+                <div class="item-count">
+                    <span>{{value['body']['comments_total']}}条评价</span>
+                </div>
+            </div>
+        </a>
+</div>
+
+{{else if value['body']['class_parameters']['list'].length !== 0}}
+<div class="item-box">
+        <a href="javascript:void(0)">
+            <img class="item-img"
+                src="{{value['body']['image']}}"
+                alt="">
+            {{if value['body']['is_multi_price'] == 'true'}}  
+            <div class="icon-left">
+                <img src="http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/dc366c6277333af59cd0fec8285b5677.png?w=120&h=48"
+                    alt="">
+            </div>
+            {{/if}}
+            <div class="item-con">
+                <h3 class="mt">{{value['body']['name']}}</h3>
+                <p class="item-desc yinghao" class="">{{value['desc']}}</p>
+                <div class="item-specs-list">
+                    <div class="specs-item bd-right-1px">
+                        <span class="name">{{value['body']['class_parameters']['list'][0]['top_title']}}</span>
+                        <span class="desc">{{value['body']['class_parameters']['list'][0]['bottom_title']}}</span>
+                    </div>
+                    <div class="specs-item bd-right-1px">
+                        <span class="name">{{value['body']['class_parameters']['list'][1]['top_title']}}</span>
+                        <span class="desc">{{value['body']['class_parameters']['list'][1]['bottom_title']}}</span>
+                    </div>
+                    <div class="specs-item ">
+                        <span class="name">{{value['body']['class_parameters']['list'][2]['top_title']}}</span>
+                        <span class="desc">{{value['body']['class_parameters']['list'][2]['bottom_title']}}</span>
+                    </div>
+                </div>
+                <div class="item-price">
+                    <sub>¥</sub>{{value['body']['price']}}
+                    {{if value['body']['market_price'] == value['body']['price']}}  
+                    <span class="spe">起</span>
+                    {{/if}}
+                    <span class="icon-box">
+                        <img src="{{value['body']['sale_label']['activity_label'][0]['img_url']}}" alt="">
+                        <img src="" alt="">
+                        <img src="" alt="">
+                    </span>
+                </div>
+                <div class="item-count">
+                    {{if value['body']['comments_total'] !== 0}}  
+                    <span>{{value['body']['comments_total']}}条评价</span>
+                    {{/if}}
+                    <span>{{value['body']['satisfy_per']}}满意</span>
+                </div>
+            </div>
+        </a>
+</div>
+{{/if}}
+
+{{/if}}
+{{/each}}

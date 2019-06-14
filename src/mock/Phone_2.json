@@ -1,0 +1,3548 @@
+{
+    "code": 0,
+    "data": {
+      "classes": [
+        {
+          "checked": true,
+          "class_buy_guide": {
+            "action": {
+              "extra": "{\"extra_url\":\"http:\\/\\/api.m.mi.com\\/v1\\/home\\/activity_page\",\"extra_ver\":\"6791\",\"extra_title\":\"\\u624b\\u673a\\u9009\\u8d2d\\u6307\\u5357\",\"groupId\":\"\",\"extra_search\":false,\"extra_cart\":false,\"needVersion\":\"46\"}",
+              "log_code": "31appsearchother000000#t=normal&act=&page=search&bid=3322077.1",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.hdchannel.RootFragment?pluginId=15102",
+              "type": "plugin"
+            },
+            "ad_position_id": 2685,
+            "cx_action": {
+              "extra": "{\"page_title\":\"\\u624b\\u673a\\u9009\\u8d2d\\u6307\\u5357\",\"page_id\":\"6804\"}",
+              "log_code": "31cxsearchother000000#t=normal&act=&page=search&bid=3322077.1",
+              "path": "/pages/channel/index?page_title=手机选购指南&page_id=6804",
+              "type": "channel"
+            },
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/7e6f1f652ccc78e3bf84c2e85585a6f4.png?w=1080&h=300&bg=E8EDF1",
+            "image_url_color": "#E8EDF1",
+            "image_url_webp": "http://i8.mifile.cn/v1/a1/8d7d7caf-1d8a-1d32-9189-96dfc8ea26d2.webp?w=1080&h=300&bg=E8EDF1",
+            "is_login": "N",
+            "material_id": 8877,
+            "wap_action": {
+              "log_code": "31wapsearchother000000#t=normal&act=&page=search&bid=3322077.1",
+              "path": "https://s1.mi.com/pages/ad185a320a9c8af2e25d53ef7cbacd4f/index.html",
+              "type": "activity"
+            }
+          },
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/96f96a1dcc30aad39635034d1ef0918c.png",
+          "class_id": 1,
+          "class_is_pk": true,
+          "class_keywords": [
+            "手机,红米,小米"
+          ],
+          "class_name": "手机",
+          "class_parameters": [
+            {
+              "checked": false,
+              "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+              "is_quick_search": false,
+              "parameter_id": 38,
+              "parameter_name": "CPU",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙845八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙636八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙660八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙710八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Helio A22"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Helio P22八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "联发科P35八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙855八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙712八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙632八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙675八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙730八核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "骁龙SDM439八核"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 39,
+              "parameter_name": "CPU主频",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高2.8GHz"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高1.8GHz"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高2.2GHz"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高2.0GHz"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高2.3GHz"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "最高2.84GHz"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+              "is_quick_search": true,
+              "parameter_id": 3,
+              "parameter_name": "后置摄像头",
+              "quick_search_name": "拍照像素",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "后置相机拥有3个摄像头",
+                  "name": "三摄像头"
+                },
+                {
+                  "checked": false,
+                  "desc": "后置相机拥有2个摄像头",
+                  "name": "双摄像头"
+                },
+                {
+                  "checked": false,
+                  "desc": "后置相机在1200万像素以上",
+                  "name": "高清拍摄"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 12,
+              "parameter_name": "前置摄像头",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "500万像素"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "800万像素"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1300万像素"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2000万像素"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2400万像素"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2400万+200万像素"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 46,
+              "parameter_name": "屏幕",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "全面屏"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "三星AMOLED 全面屏"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "水滴全面屏"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "三星AMOLED 水滴全面屏"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "AMOLED 全面屏"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+              "is_quick_search": true,
+              "parameter_id": 1,
+              "parameter_name": "屏幕尺寸",
+              "quick_search_name": "屏幕大小",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "屏幕超过6英寸",
+                  "name": "超大屏"
+                },
+                {
+                  "checked": false,
+                  "desc": "屏幕小于6英寸",
+                  "name": "中小屏"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/a5ab24dcb527e49f970f13b11e000ab1.png",
+              "is_quick_search": false,
+              "parameter_id": 7,
+              "parameter_name": "屏幕分辨率",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1080×2280"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1440x720"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1440×720"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1520×720"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2160×1080"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2244×1080"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2248×1080"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2248x1080"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2280×1080"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2340×1080"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/c8ec0829241324e401744da627482560.png",
+              "is_quick_search": true,
+              "parameter_id": 5,
+              "parameter_name": "运行内存",
+              "quick_search_name": "运行内存",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "运行内存在5GB以上",
+                  "name": "极速畅玩"
+                },
+                {
+                  "checked": false,
+                  "desc": "运行内存为4GB",
+                  "name": "高速"
+                },
+                {
+                  "checked": false,
+                  "desc": "运行内存为3GB",
+                  "name": "流畅"
+                },
+                {
+                  "checked": false,
+                  "desc": "运行内存在3GB以下",
+                  "name": "实用"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/8941adac25333e785b9cc78ca11f4f27.png",
+              "is_quick_search": false,
+              "parameter_id": 9,
+              "parameter_name": "存储容量",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "16GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "32GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "64GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "128GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "256GB"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 42,
+              "parameter_name": "NFC",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "支持"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 45,
+              "parameter_name": "红外遥控",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "支持"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 44,
+              "parameter_name": "独立AI键",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "支持"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 47,
+              "parameter_name": "指纹识别",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "后置指纹"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "压感屏幕指纹"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "第五代屏幕指纹"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "光感屏幕指纹"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "第七代屏幕指纹"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/52ad10a73685342e437e44ea3d29cbff.png",
+              "is_quick_search": false,
+              "parameter_id": 10,
+              "parameter_name": "机身厚度",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "厚实"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "普通厚度"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "薄"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/0b4ea0fb21dde2f29df3c20de73539b9.png",
+              "is_quick_search": true,
+              "parameter_id": 4,
+              "parameter_name": "电池容量",
+              "quick_search_name": "电池续航",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "电池容量在3500mAh以上",
+                  "name": "超长待机"
+                },
+                {
+                  "checked": false,
+                  "desc": "电池容量在2000mAh-3500mAh之间",
+                  "name": "持久待机"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 43,
+              "parameter_name": "电池充电",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "无线充电+有线快充"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "有线快充"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "有线充电"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "无线闪充+有线闪充"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/d1b67a407fb2a1ed42c2c0ce15af3318.png",
+              "is_quick_search": false,
+              "parameter_id": 6,
+              "parameter_name": "网络类型",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "移动4G+"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "4G全网通"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/bfd5ba9ae72c365dee42db14dfae4b0f.png",
+              "is_quick_search": false,
+              "parameter_id": 11,
+              "parameter_name": "网络模式",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "双卡双待"
+                }
+              ]
+            }
+          ],
+          "class_sort": 500
+        },
+        {
+          "checked": false,
+          "class_buy_guide": {
+            "action": {
+              "extra": "{\"extra_url\":\"http:\\/\\/api.m.mi.com\\/v1\\/home\\/activity_page\",\"extra_ver\":\"6817\",\"extra_title\":\"\\u7535\\u89c6\\u9009\\u8d2d\\u6307\\u5357\",\"groupId\":\"\",\"extra_search\":false,\"extra_cart\":false,\"needVersion\":\"46\"}",
+              "log_code": "31appsearchother000000#t=normal&act=&page=search&bid=3324160.1",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.hdchannel.RootFragment?pluginId=15102",
+              "type": "plugin"
+            },
+            "ad_position_id": 2696,
+            "cx_action": {
+              "extra": "{\"page_title\":\"\\u7535\\u89c6\\u9009\\u8d2d\\u6307\\u5357\",\"page_id\":\"6905\"}",
+              "log_code": "31cxsearchother000000#t=normal&act=&page=search&bid=3324160.1",
+              "path": "/pages/channel/index?page_title=电视选购指南&page_id=6905",
+              "type": "channel"
+            },
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/9a1e25fc015ff9803435938d99e6a33d.png?w=1080&h=300&bg=E7EDF0",
+            "image_url_color": "#E7EDF0",
+            "image_url_webp": "http://i8.mifile.cn/v1/a1/d433cf6e-6868-0f76-90e0-d2123c00aa47.webp?w=1080&h=300&bg=E7EDF0",
+            "is_login": "N",
+            "material_id": 9027,
+            "wap_action": {
+              "log_code": "31wapsearchother000000#t=normal&act=&page=search&bid=3324160.1",
+              "path": "https://s1.mi.com/pages/4f7b884f2445ef08da9bbc77b028722c/index.html",
+              "type": "activity"
+            }
+          },
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/ec304d96e5ad83e9e6b808f4e781a486.png",
+          "class_id": 7,
+          "class_is_pk": true,
+          "class_keywords": [
+            "电视",
+            "投影,投,影,激光,激"
+          ],
+          "class_name": "电视",
+          "class_parameters": [
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+              "is_quick_search": false,
+              "parameter_id": 25,
+              "parameter_name": "屏幕尺寸",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "32英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "40英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "43英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "49英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "50英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "55英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "58英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "65英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "75英寸"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "150英寸"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/a5ab24dcb527e49f970f13b11e000ab1.png",
+              "is_quick_search": false,
+              "parameter_id": 26,
+              "parameter_name": "分辨率",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "4K超高清"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "全高清"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "高清"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 27,
+              "parameter_name": "HDR",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "支持"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "不支持"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+              "is_quick_search": false,
+              "parameter_id": 29,
+              "parameter_name": "处理器",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "四核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "64位四核"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "64位"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/8941adac25333e785b9cc78ca11f4f27.png",
+              "is_quick_search": false,
+              "parameter_id": 30,
+              "parameter_name": "存储",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1GB+4GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1GB+8GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2GB+8GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2GB+16GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2GB+32GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2GB+8GB "
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 31,
+              "parameter_name": "音效",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "杜比+DTS-HD"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "杜比音效"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "DTS-HD"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "DTS"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/133a8f23d38e26f2eabead4695070f71.png",
+              "is_quick_search": false,
+              "parameter_id": 32,
+              "parameter_name": "HDMI",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2个"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "3个"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 33,
+              "parameter_name": "音频输出",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1个"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 34,
+              "parameter_name": "AV",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1个"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 35,
+              "parameter_name": "USB",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1个"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2个"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "3个"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 36,
+              "parameter_name": "以太网",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1个"
+                }
+              ]
+            }
+          ],
+          "class_sort": 499
+        },
+        {
+          "checked": false,
+          "class_buy_guide": {
+            "action": {
+              "extra": "{\"extra_url\":\"http:\\/\\/api.m.mi.com\\/v1\\/home\\/activity_page\",\"extra_title\":\"\\u7b14\\u8bb0\\u672c\\u9009\\u8d2d\\u6307\\u5357\",\"groupId\":\"\",\"extra_ver\":\"6916\",\"needVersion\":\"46\"}",
+              "log_code": "31appsearchother000000#t=normal&act=&page=search&bid=3324989.1",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.hdchannel.RootFragment?pluginId=15102",
+              "type": "plugin"
+            },
+            "ad_position_id": 2697,
+            "cx_action": {
+              "extra": "{\"page_title\":\"\\u7b14\\u8bb0\\u672c\\u9009\\u8d2d\\u6307\\u5357\",\"page_id\":\"6931\"}",
+              "log_code": "31cxsearchother000000#t=normal&act=&page=search&bid=3324989.1",
+              "path": "/pages/channel/index?page_title=笔记本选购指南&page_id=6931",
+              "type": "channel"
+            },
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/3abd5d6bceeb2574d790b467e81aff97.png?w=1080&h=300&bg=E7ECF0",
+            "image_url_color": "#E7ECF0",
+            "image_url_webp": "http://i8.mifile.cn/v1/a1/f096ffbf-3f47-e77e-3ef2-5300ec1d92dc.webp?w=1080&h=300&bg=E7ECF0",
+            "is_login": "N",
+            "material_id": 9037,
+            "wap_action": {
+              "log_code": "31wapsearchother000000#t=normal&act=&page=search&bid=3324989.1",
+              "path": "https://s1.mi.com/pages/9b8b50fb590c590ffbf1295ce92258dc/index.html",
+              "type": "activity"
+            }
+          },
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/5956d1099f6b730d28e858f0c37f0ea2.png",
+          "class_id": 2,
+          "class_is_pk": true,
+          "class_keywords": [
+            "电脑,笔记本,pc"
+          ],
+          "class_name": "笔记本",
+          "class_parameters": [
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+              "is_quick_search": false,
+              "parameter_id": 13,
+              "parameter_name": "屏幕尺寸",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "较大屏幕"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "中等屏幕"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "小屏幕"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+              "is_quick_search": false,
+              "parameter_id": 14,
+              "parameter_name": "CPU",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Intel i5"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Intel i7"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Intel m3"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Intel i3"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Inter i3"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/a9298b07c99ef966b063dea874624a71.png",
+              "is_quick_search": false,
+              "parameter_id": 15,
+              "parameter_name": "显卡类型",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "独立显卡"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "集成显卡"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/52ad10a73685342e437e44ea3d29cbff.png",
+              "is_quick_search": false,
+              "parameter_id": 16,
+              "parameter_name": "厚度",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "正常厚度"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "便携轻薄"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "极致轻薄"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/768819862203c438b713192f0134ada9.png",
+              "is_quick_search": false,
+              "parameter_id": 17,
+              "parameter_name": "固态硬盘",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "128GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "256GB"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "512GB"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/8941adac25333e785b9cc78ca11f4f27.png",
+              "is_quick_search": false,
+              "parameter_id": 18,
+              "parameter_name": "机械硬盘",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1TB"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 19,
+              "parameter_name": "可扩展硬盘",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "支持"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/c8ec0829241324e401744da627482560.png",
+              "is_quick_search": false,
+              "parameter_id": 20,
+              "parameter_name": "内存容量",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "超大内存"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "大内存"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/a5ab24dcb527e49f970f13b11e000ab1.png",
+              "is_quick_search": false,
+              "parameter_id": 21,
+              "parameter_name": "分辨率",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "全高清屏"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/0b4ea0fb21dde2f29df3c20de73539b9.png",
+              "is_quick_search": false,
+              "parameter_id": 22,
+              "parameter_name": "待机时长",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">9.5小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">9小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "＞8小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">6.5小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "＞6.5小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "＞9小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "＞6小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">10小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">6小时"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": ">11小时"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "https://i8.mifile.cn/b2c-mimall-media/389475a5067acf8609ff8bec7e198de9.png",
+              "is_quick_search": false,
+              "parameter_id": 23,
+              "parameter_name": "重量",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1.07kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1.3kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1.5kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "1.95kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2.09/2.18kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2.09kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": " 2.09/2.18kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2.18kg"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "2.7kg"
+                }
+              ]
+            },
+            {
+              "checked": false,
+              "icon": "",
+              "is_quick_search": false,
+              "parameter_id": 24,
+              "parameter_name": "操作系统",
+              "quick_search_name": "",
+              "rules": [
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Windows 10 家庭版"
+                },
+                {
+                  "checked": false,
+                  "desc": "",
+                  "name": "Windows 10  家庭版"
+                }
+              ]
+            }
+          ],
+          "class_sort": 498
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/ef0bbf2dbeccac1b48fb6593c174cfe8.png",
+          "class_id": 9,
+          "class_is_pk": false,
+          "class_keywords": [
+            "盒子,盒"
+          ],
+          "class_name": "盒子",
+          "class_parameters": [],
+          "class_sort": 497
+        },
+        {
+          "checked": false,
+          "class_buy_guide": {
+            "action": {
+              "extra": "{\"extra_url\":\"http:\\/\\/api.m.mi.com\\/v1\\/home\\/activity_page\",\"extra_title\":\"\\u8def\\u7531\\u5668\\u9009\\u8d2d\\u6307\\u5357\",\"groupId\":\"\",\"extra_ver\":\"7528\",\"needVersion\":\"46\"}",
+              "log_code": "31appsearchother000000#t=normal&act=&page=search&bid=3351719.1",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.hdchannel.RootFragment?pluginId=15102",
+              "type": "plugin"
+            },
+            "ad_position_id": 2794,
+            "cx_action": {
+              "extra": "{\"page_title\":\"\\u8def\\u7531\\u5668\\u9009\\u8d2d\\u6307\\u5357\",\"page_id\":\"7536\"}",
+              "log_code": "31cxsearchother000000#t=normal&act=&page=search&bid=3351719.1",
+              "path": "/pages/channel/index?page_title=路由器选购指南&page_id=7536",
+              "type": "channel"
+            },
+            "image_url": "https://i8.mifile.cn/b2c-mimall-media/a858d22dc716609af04d0b24cf616fe3.jpg?w=1080&h=300&bg=E8EDF0",
+            "image_url_color": "#E8EDF0",
+            "image_url_webp": "http://i8.mifile.cn/v1/a1/2f8b414b-fcfc-4624-9a83-6c935122b665.webp?w=1080&h=300&bg=E8EDF0",
+            "is_login": "N",
+            "material_id": 9707,
+            "wap_action": {
+              "log_code": "31wapsearchother000000#t=normal&act=&page=search&bid=3351719.1",
+              "path": "https://s1.mi.com/pages/ff42b03a06a1bed4e936f0e04958e168/index.html",
+              "type": "activity"
+            }
+          },
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/608762eaacae8dcf1475973b90cb134a.png",
+          "class_id": 12,
+          "class_is_pk": false,
+          "class_keywords": [
+            "路由器,路由,无线,上网,wifi,猫"
+          ],
+          "class_name": "路由器",
+          "class_parameters": [],
+          "class_sort": 496
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/950b651b42e49614113fc31eebb32122.png",
+          "class_id": 3,
+          "class_is_pk": false,
+          "class_keywords": [
+            "平板"
+          ],
+          "class_name": "平板",
+          "class_parameters": [],
+          "class_sort": 494
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/3a8d445402428f6e423feb816cd8db9e.png",
+          "class_id": 20,
+          "class_is_pk": false,
+          "class_keywords": [
+            
+          ],
+          "class_name": "手表",
+          "class_parameters": [],
+          "class_sort": 493
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/6fbd278e86dfd9bec77938374a2e7a66.png",
+          "class_id": 18,
+          "class_is_pk": false,
+          "class_keywords": [
+            "手环,手,环,vr"
+          ],
+          "class_name": "穿戴",
+          "class_parameters": [],
+          "class_sort": 491
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/43883ff4ec511b3b4decf29f1e40a751.png",
+          "class_id": 5,
+          "class_is_pk": false,
+          "class_keywords": [
+            "净化器.净.净化.空气,空,气"
+          ],
+          "class_name": "空气净化器",
+          "class_parameters": [],
+          "class_sort": 399
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/79130fa7cd25ca0f8bf2ad583e1c9f14.png",
+          "class_id": 8,
+          "class_is_pk": false,
+          "class_keywords": [
+            "耳机,耳,线,线控,蓝牙,头,头戴"
+          ],
+          "class_name": "耳机",
+          "class_parameters": [],
+          "class_sort": 397
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/049f654ea61ba33f87fa101d11344ddb.png",
+          "class_id": 4,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "家电",
+          "class_parameters": [],
+          "class_sort": 396
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/c7eae41bec85cb3d7afc2885454637df.png",
+          "class_id": 24,
+          "class_is_pk": false,
+          "class_keywords": [
+            
+          ],
+          "class_name": "安防监控",
+          "class_parameters": [],
+          "class_sort": 394
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/dafcb27186fd97ad383b484394131fc9.png",
+          "class_id": 27,
+          "class_is_pk": false,
+          "class_keywords": [
+            "飞机,无人,无人飞机,螺旋桨,小飞机,遥控",
+            "积木,卡车,指尖"
+          ],
+          "class_name": "酷玩",
+          "class_parameters": [],
+          "class_sort": 391
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/235758b07f839f4bab1b1c1fb721deaf.png",
+          "class_id": 26,
+          "class_is_pk": false,
+          "class_keywords": [
+            "体重秤,体重,秤,血压计,血压,体温计,体温,医"
+          ],
+          "class_name": "健康",
+          "class_parameters": [],
+          "class_sort": 389
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/9c4fc2062ab30f5b357058be97a4af53.png",
+          "class_id": 17,
+          "class_is_pk": false,
+          "class_keywords": [
+            "后视镜,后视,行车,行车记录,记录,倒车,记录仪"
+          ],
+          "class_name": "汽车用品",
+          "class_parameters": [],
+          "class_sort": 388
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/9eee0d40f5058792e44beca4362de5fb.png",
+          "class_id": 16,
+          "class_is_pk": false,
+          "class_keywords": [
+            "对讲机,对讲"
+          ],
+          "class_name": "户外",
+          "class_parameters": [],
+          "class_sort": 387
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/cc7a38c9bd4909f600f0450711b5b35c.png",
+          "class_id": 14,
+          "class_is_pk": false,
+          "class_keywords": [
+            "滑板车,车,滑板,自行车,自行,平衡,平衡车"
+          ],
+          "class_name": "出行",
+          "class_parameters": [],
+          "class_sort": 386
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/b167f6eed77067a3194f48eb634152f1.png",
+          "class_id": 28,
+          "class_is_pk": false,
+          "class_keywords": [
+            "灯,吸顶,LED,床头,感应夜灯,感应,夜,筒灯,调色"
+          ],
+          "class_name": "灯具",
+          "class_parameters": [],
+          "class_sort": 384
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/5b20d86ff9f8543812c39896ad61b74c.png",
+          "class_id": 29,
+          "class_is_pk": false,
+          "class_keywords": [
+            "网关,传感器,智能,家庭,开关,无线,墙",
+            "插座,插,座"
+          ],
+          "class_name": "智能",
+          "class_parameters": [],
+          "class_sort": 383
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/70995e2ac400cd5b9bd540c21ee3d3d4.png",
+          "class_id": 31,
+          "class_is_pk": false,
+          "class_keywords": [
+            "包,双肩,手包,收纳,收,书,胸,洗漱,零钱,钱,时尚,通勤,休",
+            "学院,候机,便携"
+          ],
+          "class_name": "包",
+          "class_parameters": [],
+          "class_sort": 382
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/073c00b0f73a7a812be2d57b3abd5594.png",
+          "class_id": 30,
+          "class_is_pk": false,
+          "class_keywords": [
+            "箱,旅行,旅行箱,金属,登机,商务"
+          ],
+          "class_name": "旅行箱",
+          "class_parameters": [],
+          "class_sort": 382
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/9112ba9237a6acb0708a24297fba23cc.png",
+          "class_id": 33,
+          "class_is_pk": false,
+          "class_keywords": [
+            "电源",
+            "电池"
+          ],
+          "class_name": "电源电池",
+          "class_parameters": [],
+          "class_sort": 381
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/1c62d87ca6ba67e5dea10108375cff60.png",
+          "class_id": 32,
+          "class_is_pk": false,
+          "class_keywords": [
+            "数据,usb,苹果,转接,C,网线,充电器,快充,存储卡",
+            "自拍,支架,杆,线"
+          ],
+          "class_name": "配件",
+          "class_parameters": [],
+          "class_sort": 300
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/f0bd09c42c7270a30e0e65d3a43559d1.png",
+          "class_id": 50,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "生活",
+          "class_parameters": [],
+          "class_sort": 298
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/ccaa0059432b2925c96daf71a07f1601.png",
+          "class_id": 53,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "服饰",
+          "class_parameters": [],
+          "class_sort": 296
+        },
+        {
+          "checked": false,
+          "class_icon": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fbaac2bf0207daef75fd339cb6c73e35.png",
+          "class_id": 61,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "办公用品",
+          "class_parameters": [],
+          "class_sort": 293
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/bba614490136300f9b15f8a24170a6a6.png",
+          "class_id": 36,
+          "class_is_pk": false,
+          "class_keywords": [
+            "膜,玻璃,高透,透,钢化,钢,保护膜,贴膜,贴"
+          ],
+          "class_name": "手机贴膜",
+          "class_parameters": [],
+          "class_sort": 198
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/b70bef074164de6f9b3e6e1fe5cf1681.png",
+          "class_id": 35,
+          "class_is_pk": false,
+          "class_keywords": [
+            "保护,壳,套,盖"
+          ],
+          "class_name": "手机保护壳",
+          "class_parameters": [],
+          "class_sort": 197
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/9e219a2a410c9ad6d580378074b53aac.png",
+          "class_id": 43,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "电视配件",
+          "class_parameters": [],
+          "class_sort": 196
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/bf55e9715a38d6efcf9fcef1ce00ffce.png",
+          "class_id": 42,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "平板配件",
+          "class_parameters": [],
+          "class_sort": 186
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/abf81e810f2316688b355a82a32dfd9a.png",
+          "class_id": 10,
+          "class_is_pk": false,
+          "class_keywords": [
+            "音箱",
+            "音响"
+          ],
+          "class_name": "音箱",
+          "class_parameters": [],
+          "class_sort": 100
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/f5e18f4335083071b6b2f330cbf052dd.png",
+          "class_id": 55,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "米粉卡",
+          "class_parameters": [],
+          "class_sort": 99
+        },
+        {
+          "checked": false,
+          "class_icon": "https://i8.mifile.cn/b2c-mimall-media/794499bec7d28e16229451b48acbcc0e.png",
+          "class_id": 56,
+          "class_is_pk": false,
+          "class_keywords": [],
+          "class_name": "服务",
+          "class_parameters": [],
+          "class_sort": 98
+        }
+      ],
+      "filter_tags": [
+        {
+          "checked": false,
+          "name": "促销",
+          "value": 1
+        },
+        {
+          "checked": false,
+          "name": "分期",
+          "value": 2
+        },
+        {
+          "checked": false,
+          "name": "仅看有货",
+          "value": 4
+        }
+      ],
+      "list_v2": [
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9454\"}",
+              "log_code": "search_1_99#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9454&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙632八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙632八核",
+                  "top_title": "CPU",
+                  "value": "骁龙632八核"
+                },
+                {
+                  "bottom_title": "1200万+200万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "1200万+200万像素"
+                },
+                {
+                  "bottom_title": "6.26英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.26英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 2674,
+            "desc": "<font color='#ff4a00'>「4GB+64GB,赠价值29元小米活塞耳机」\t</font>4000mAh大电量 / 骁龙632八核处理器 / 6.26\"水滴全面屏，德国莱茵 TÜV 认证护眼屏 / 18个月超长质保，康宁第五代大猩猩玻璃盖板 / 支持大字体、大音量模式，收音机、红外遥控功能 / 1200万AI双摄，1.25μm大像素相机",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aab8a7fa9005ef918c9aa2d5f17c806.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "999",
+            "name": "Redmi 7 4GB+64GB",
+            "pms_name": "Redmi 7 4GB+64GB",
+            "price": "999",
+            "product_id": "9454",
+            "release_date": 1551864098,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "92.3%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "红米7,红米7,红米,7,Redmi 7,Redmi",
+                "红米新品",
+                "Redmi",
+                "4000mAh,大电量"
+              ],
+              "index_name": "Redmi 7,红米7,redmi7,红米redmi",
+              "word": "Redmi 7"
+            },
+            "service_mode": 0,
+            "sort": 3559
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9453\"}",
+              "log_code": "search_1_160#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9453&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙632八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙632八核",
+                  "top_title": "CPU",
+                  "value": "骁龙632八核"
+                },
+                {
+                  "bottom_title": "1200万+200万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "1200万+200万像素"
+                },
+                {
+                  "bottom_title": "6.26英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.26英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 4445,
+            "desc": "<font color='#ff4a00'>「3GB+32GB,赠价值29元小米活塞耳机」\t</font>4000mAh大电量 / 骁龙632八核处理器 / 6.26\"水滴全面屏，德国莱茵 TÜV 认证护眼屏 / 18个月超长质保，康宁第五代大猩猩玻璃盖板 / 支持大字体、大音量模式，收音机、红外遥控功能 / 1200万AI双摄，1.25μm大像素相机",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aab8a7fa9005ef918c9aa2d5f17c806.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "799",
+            "name": "Redmi 7 3GB+32GB",
+            "pms_name": "Redmi 7 3GB+32GB",
+            "price": "799",
+            "product_id": "9453",
+            "release_date": 1551864089,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "92.7%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "红米7,红米,7,Redmi 7,Redmi",
+                "红米新品",
+                "Redmi"
+              ],
+              "index_name": "红米7,redmi7,红米redmi,Redmi 7",
+              "word": "Redmi 7"
+            },
+            "service_mode": 0,
+            "sort": 3558
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9471\"}",
+              "log_code": "search_1_7#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9471&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙632八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙632八核",
+                  "top_title": "CPU",
+                  "value": "骁龙632八核"
+                },
+                {
+                  "bottom_title": "1200万+200万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "1200万+200万像素"
+                },
+                {
+                  "bottom_title": "6.26英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.26英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 535,
+            "desc": "<font color='#ff4a00'>「购机赠专属电话卡，每月仅需14.9元」\t</font>4000mAh大电量 / 骁龙632八核处理器 / 6.26\"水滴全面屏，德国莱茵 TÜV 认证护眼屏 / 18个月超长质保，康宁第五代大猩猩玻璃盖板 / 支持大字体、大音量模式，收音机、红外遥控功能 / 1200万AI双摄，1.25μm大像素相机",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9aab8a7fa9005ef918c9aa2d5f17c806.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "699",
+            "name": "Redmi 7 2GB+16GB",
+            "pms_name": "Redmi 7 2GB+16GB",
+            "price": "699",
+            "product_id": "9471",
+            "release_date": 1552530270,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "85.2%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "红米新品,红米,红米7,红米,7,Redmi 7,Redmi",
+                "红米7,4000mAh,大电量",
+                "Redmi"
+              ],
+              "index_name": "Redmi 7,红米7,redmi7,红米redmi",
+              "word": "Redmi 7"
+            },
+            "service_mode": 0,
+            "sort": 3557
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9593\"}",
+              "log_code": "search_1_6#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9593&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001003,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙712八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙712八核",
+                  "top_title": "CPU",
+                  "value": "骁龙712八核"
+                },
+                {
+                  "bottom_title": "4800万+800万+1300万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+800万+1300万像素"
+                },
+                {
+                  "bottom_title": "5.97英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "中小屏",
+                  "top_title": "中小屏",
+                  "value": "5.97英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 207,
+            "desc": "背部镌刻布朗熊形象，搭配定制版移动电源、萌力守护保护壳、专属收藏证书 / 索尼4800万超广角三摄 / 骁龙712 / 全息幻彩机身 / 三星AMOLED屏幕 / 5.97”水滴屏 / 第五代屏幕指纹识别 / 多功能NFC / 红外遥控",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2932ce60d7fbce88abe36823c91dd6f7.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "2499",
+            "name": "小米9 SE 布朗熊限量套装",
+            "pms_name": "小米9 SE 布朗熊限量套装 6GB+128GB",
+            "price": "2499",
+            "product_id": "9593",
+            "release_date": 1553860692,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "97.6%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9SE,布朗熊 小米9SE",
+                "布朗熊",
+                "定制,限量",
+                "LINE,FRIENDS,BROWN",
+                "小米9SE,布朗熊,定制,限量",
+                "米9,米9SE,,mi9,xiaomi9,xiaomi9SE"
+              ],
+              "index_name": "se,手机,小米9SE 布朗熊,LINE,FRIENDS,BROWN,小米9",
+              "word": "小米9SE 布朗熊"
+            },
+            "service_mode": 0,
+            "sort": 3503
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9594\"}",
+              "log_code": "search_1_36#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9594&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001002,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙855八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙855八核",
+                  "top_title": "CPU",
+                  "value": "骁龙855八核"
+                },
+                {
+                  "bottom_title": "4800万+1200万+1600万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+1200万+1600万像素"
+                },
+                {
+                  "bottom_title": "6.39英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.39英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 158,
+            "desc": "镌刻ROY印记 / 王源限量版保护壳、主题卡、收藏证书 / 王源ROY珍藏写真 / 骁龙855旗舰处理器 / 索尼4800万超广角微距三摄 / 20W无线闪充 / 第5代极速屏下指纹解锁",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a7f616f2e931d6433f36fb356693c3d1.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "3599",
+            "name": "小米9 王源限量版",
+            "pms_name": "小米9 王源限量版 8GB+128GB",
+            "price": "3599",
+            "product_id": "9594",
+            "release_date": 1553860939,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "98.7%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "王源",
+                "定制",
+                "小米9",
+                "刚哥",
+                "战斗天使,米9,,mi9,xiaomi9",
+                "全网通,三摄,战斗天使,新品,旗舰",
+                "王源限量版 小米9"
+              ],
+              "index_name": "小米9王源定制版,手机,小米9王源限量版,小米9",
+              "word": "小米9王源限量版"
+            },
+            "service_mode": 0,
+            "sort": 3502
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"10000134\"}",
+              "log_code": "search_1_199#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=10000134&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": []
+            },
+            "class_sort": 500,
+            "comments_total": 50228,
+            "desc": "<font color='#ff4a00'>「6GB+128GB/8GB+256GB，限时赠价值149元无线充电宝，更可享全系列3/6期免息」</font>全曲面轻薄设计，全息幻彩玻璃机身 /  骁龙855旗舰处理器 / 20W无线闪充，标配27W有线快充 / 索尼4800万超广角微距三摄 / 极速屏下指纹解锁 / 多功能NFC",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/537279cdf91ce313f903f3670c147c03.jpg",
+            "is_multi_price": true,
+            "is_pk": false,
+            "market_price": "2999",
+            "name": "小米9",
+            "pms_name": "",
+            "price": "2999",
+            "product_id": "10000134",
+            "release_date": 1550050862,
+            "sale_label": {
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "旗舰,新品",
+                "王源",
+                "战斗天使",
+                "小米9 SE"
+              ],
+              "index_name": "小米9,手机"
+            },
+            "service_mode": 0,
+            "sort": 3500
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9368\"}",
+              "log_code": "search_1_173#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9368&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙855八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙855八核",
+                  "top_title": "CPU",
+                  "value": "骁龙855八核"
+                },
+                {
+                  "bottom_title": "4800万+1200万+1600万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+1200万+1600万像素"
+                },
+                {
+                  "bottom_title": "6.39英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.39英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 19329,
+            "desc": "<font color='#ff4a00'>「6GB+128GB版限时赠价值149元无线充电宝，更享3/6期免息」</font>全曲面轻薄设计，全息幻彩玻璃机身 / 骁龙855旗舰处理器 / 20W无线闪充，标配27W有线快充 / 索尼4800万超广角微距三摄 / 极速屏下指纹解锁 / 多功能NFC",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/537279cdf91ce313f903f3670c147c03.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "2999",
+            "name": "小米9 全网通版 6GB+128GB",
+            "pms_name": "小米9 全网通版 6GB内存",
+            "price": "2999",
+            "product_id": "9368",
+            "release_date": 1550545381,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "95.0%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "战斗天使",
+                "王源",
+                "旗舰,新品",
+                "小米9",
+                "三摄",
+                "米9,,mi9,xiaomi9"
+              ],
+              "index_name": "小米9,手机",
+              "word": "小米9"
+            },
+            "service_mode": 0,
+            "sort": 3480
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9369\"}",
+              "log_code": "search_1_46#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9369&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙855八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙855八核",
+                  "top_title": "CPU",
+                  "value": "骁龙855八核"
+                },
+                {
+                  "bottom_title": "4800万+1200万+1600万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+1200万+1600万像素"
+                },
+                {
+                  "bottom_title": "6.39英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.39英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 26872,
+            "desc": "<font color='#ff4a00'>「8GB+128GB版享3/6期免息」</font>全曲面轻薄设计，全息幻彩玻璃机身 / 骁龙855旗舰处理器 / 20W无线闪充，标配27W有线快充 / 索尼4800万超广角微距三摄 / 极速屏下指纹解锁 / 多功能NFC",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/89712df85e308e73b13f0722023aa8a9.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "3299",
+            "name": "小米9 全网通版 8GB+128GB",
+            "pms_name": "小米9 全网通版 8GB内存",
+            "price": "3299",
+            "product_id": "9369",
+            "release_date": 1550545576,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "93.4%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9",
+                "战斗天使",
+                "王源",
+                "三摄",
+                "米9,,mi9,xiaomi9"
+              ],
+              "index_name": "小米9,手机",
+              "word": "小米9"
+            },
+            "service_mode": 0,
+            "sort": 3470
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9516\"}",
+              "log_code": "search_1_179#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9516&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙855八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙855八核",
+                  "top_title": "CPU",
+                  "value": "骁龙855八核"
+                },
+                {
+                  "bottom_title": "4800万+1200万+1600万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+1200万+1600万像素"
+                },
+                {
+                  "bottom_title": "6.39英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.39英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 4027,
+            "desc": "<font color='#ff4a00'>「8GB+256GB版限时赠价值149元无线充电宝，更享3/6期免息」</font>全曲面轻薄设计，全息幻彩玻璃机身 / 骁龙855旗舰处理器 / 20W无线闪充，标配27W有线快充 / 索尼4800万超广角微距三摄 / 极速屏下指纹解锁 / 多功能NFC",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/671c36deedc1028b0876e1ac36715a49.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "3699",
+            "name": "小米9 全网通版 8GB+256GB\t",
+            "pms_name": "小米9 8GB+256GB 透明版",
+            "price": "3699",
+            "product_id": "9516",
+            "release_date": 1553001580,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "92.7%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9,透明,尊享,王源",
+                "全网通,三摄,战斗天使,新品,旗舰",
+                "米9,,mi9,xiaomi9"
+              ],
+              "index_name": "手机,小米9透明尊享版,小米9",
+              "word": "小米9透明尊享版"
+            },
+            "service_mode": 0,
+            "sort": 3460
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9372\"}",
+              "log_code": "search_1_24#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9372&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001001,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙855八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙855八核",
+                  "top_title": "CPU",
+                  "value": "骁龙855八核"
+                },
+                {
+                  "bottom_title": "4800万+1200万+1600万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+1200万+1600万像素"
+                },
+                {
+                  "bottom_title": "2340×1080",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/a5ab24dcb527e49f970f13b11e000ab1.png",
+                  "is_page_show": true,
+                  "name": "屏幕分辨率",
+                  "parameter_id": 7,
+                  "search_title": "2340×1080",
+                  "top_title": "屏幕分辨率",
+                  "value": "2340×1080"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 3127,
+            "desc": "全曲面透明机身 / 骁龙855旗舰处理器 / 12GB大内存 / 索尼4800万超广角微距三摄，f/1.47大光圈 / 20W无线闪充 / 第5代极速屏下指纹解锁",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/671c36deedc1028b0876e1ac36715a49.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "3999",
+            "name": "小米9 透明尊享版",
+            "pms_name": "小米9透明尊享版12GB+256GB",
+            "price": "3999",
+            "product_id": "9372",
+            "release_date": 1550546026,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "97.7%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9",
+                "战斗天使",
+                "王源",
+                "三摄",
+                "探索版,透明,屏幕指纹,尊享版",
+                "米9,,mi9,xiaomi9"
+              ],
+              "index_name": "手机,小米9",
+              "word": "小米9"
+            },
+            "service_mode": 0,
+            "sort": 3450
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"10000131\"}",
+              "log_code": "search_1_158#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=10000131&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002006,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": []
+            },
+            "class_sort": 500,
+            "comments_total": 109117,
+            "desc": "<font color='#ff4a00'>「限时优惠，购Redmi Note 7享3期免息，加赠价值29元活塞耳机，可选+10元得18W快充或洞洞壳」\t</font>4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3\" 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+            "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8591c782ffedcd92d11bb4589c75a153.jpg",
+            "is_multi_price": true,
+            "is_pk": false,
+            "market_price": "999",
+            "name": "Redmi Note 7",
+            "pms_name": "",
+            "price": "999",
+            "product_id": "10000131",
+            "release_date": 1547084967,
+            "sale_label": {
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "红米,红米Note,Note,小金刚,4800万",
+                "大电量,Redmi Note 7"
+              ],
+              "index_name": "红米redmi,红米Note 7,redminote7"
+            },
+            "service_mode": 0,
+            "sort": 3300
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9204\"}",
+              "log_code": "search_1_121#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9204&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002006,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙660八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙660八核",
+                  "top_title": "CPU",
+                  "value": "骁龙660八核"
+                },
+                {
+                  "bottom_title": "4800万+500万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "4800万+500万像素"
+                },
+                {
+                  "bottom_title": "6.3英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.3英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 7221,
+            "desc": "<font color='#ff4a00'>「限时优惠，购Redmi Note 7 享3期免息，3GB+32GB版本赠耳机，可选+10元得18W快充或洞洞壳」\t</font>4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3\" 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+            "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/090617c762093bb5a609ad86f4d19e86.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "999",
+            "name": "Redmi Note 7 3GB+32GB",
+            "pms_name": "Redmi Note 7 全网通 3GB",
+            "price": "999",
+            "product_id": "9204",
+            "release_date": 1546076377,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "95.2%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "Note7,Redmi Note7,Redmi",
+                "红米,红米Note,Note,小金刚,4800万",
+                "4000mAh,大电量",
+                "Redmi"
+              ],
+              "index_name": "redminote7,红米redmi,红米Note7",
+              "word": "红米Note7"
+            },
+            "service_mode": 0,
+            "sort": 3290
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9205\"}",
+              "log_code": "search_1_204#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9205&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002006,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙660八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙660八核",
+                  "top_title": "CPU",
+                  "value": "骁龙660八核"
+                },
+                {
+                  "bottom_title": "4800万+500万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "4800万+500万像素"
+                },
+                {
+                  "bottom_title": "6.3英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.3英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 54596,
+            "desc": "<font color='#ff4a00'>「限时优惠，购Redmi Note 7 享3期免息，4GB+64GB版本赠耳机，可选+10元得18W快充或洞洞壳」\t</font>4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3\" 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+            "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d104e530811248693235e9400afd2caa.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "1199",
+            "name": "Redmi Note 7 4GB+64GB ",
+            "pms_name": "Redmi Note 7 全网通 4GB",
+            "price": "1199",
+            "product_id": "9205",
+            "release_date": 1546076468,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "95.0%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "Note7,Redmi Note7",
+                "红米,红米Note,Note,小金刚,4800万",
+                "大电量",
+                "Redmi"
+              ],
+              "index_name": "红米redmi,红米Note7,redminote7",
+              "word": "红米Note7"
+            },
+            "service_mode": 0,
+            "sort": 3280
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9203\"}",
+              "log_code": "search_1_66#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9203&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103002006,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙660八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙660八核",
+                  "top_title": "CPU",
+                  "value": "骁龙660八核"
+                },
+                {
+                  "bottom_title": "4800万+500万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "4800万+500万像素"
+                },
+                {
+                  "bottom_title": "6.3英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "超大屏",
+                  "top_title": "超大屏",
+                  "value": "6.3英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 47300,
+            "desc": "<font color='#ff4a00'>「限时优惠，购Redmi Note 7 享3期免息，6GB+64GB版本赠耳机，可选+10元得18W快充或洞洞壳」\t</font>4800万拍照千元机 / “满血版”骁龙660处理器 / 品质“小金刚”，18个月超长质保 / 4000mAh 大电量 / 6.3\" 水滴全面屏 / USB-C 接口，方便耐用 / 支持快充 4 协议",
+            "image": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8591c782ffedcd92d11bb4589c75a153.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "1399",
+            "name": "Redmi Note 7 6GB+64GB",
+            "pms_name": "Redmi Note 7 全网通 6GB",
+            "price": "1399",
+            "product_id": "9203",
+            "release_date": 1546076247,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "94.3%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "Note7,Redmi Note7,Redmi",
+                "红米,红米Note,Note,小金刚,4800万",
+                "4000mAh,大电量"
+              ],
+              "index_name": "红米Note7,redminote7,红米redmi",
+              "word": "红米Note7"
+            },
+            "service_mode": 0,
+            "sort": 3270
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"10000135\"}",
+              "log_code": "search_1_17#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=10000135&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001003,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": []
+            },
+            "class_sort": 500,
+            "comments_total": 10986,
+            "desc": "<font color='#ff4a00'>「6GB+64GB/6GB+128GB，限时赠价值99元圈铁耳机」</font>索尼4800万超广角三摄 / 骁龙712全球首发 / 全息幻彩机身 / 三星AMOLED屏幕 / 5.97”水滴屏 / 第五代屏幕指纹识别 / 多功能NFC / 红外遥控",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/134efaa5dec3267ce29e36bad3ec26c9.jpg",
+            "is_multi_price": true,
+            "is_pk": false,
+            "market_price": "1999",
+            "name": "小米9 SE",
+            "pms_name": "",
+            "price": "1999",
+            "product_id": "10000135",
+            "release_date": 1550572387,
+            "sale_label": {
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "战斗天使",
+                "王源",
+                "小米9SE",
+                "三摄"
+              ],
+              "index_name": "小米9SE,小米9,se,手机"
+            },
+            "service_mode": 0,
+            "sort": 3200
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9954\"}",
+              "log_code": "search_1_49#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9954&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001003,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": []
+            },
+            "class_sort": 500,
+            "comments_total": 0,
+            "desc": "索尼4800万超广角三摄 / 骁龙712全球首发 / 全息幻彩机身 / 三星AMOLED屏幕 / 5.97”水滴屏 / 第五代屏幕指纹识别 / 多功能NFC / 红外遥控",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fe18e23817c7be122253928d5e606c6a.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "2499",
+            "name": "小米9 SE 8GB+128GB",
+            "pms_name": "小米9 SE 8GB+128GB",
+            "price": "2499",
+            "product_id": "9954",
+            "release_date": 1559400204,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "96.3%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "三摄,xiaomi9",
+                "战斗天使",
+                "王源",
+                "米9,米9SE,mi9SE,xiaomi9SE,mi9"
+              ],
+              "index_name": "se,手机,小米9SE,小米9",
+              "word": "小米9 SE 8GB+128GB"
+            },
+            "service_mode": 0,
+            "sort": 3191
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9380\"}",
+              "log_code": "search_1_19#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9380&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001003,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙712八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙712八核",
+                  "top_title": "CPU",
+                  "value": "骁龙712八核"
+                },
+                {
+                  "bottom_title": "4800万+800万+1300万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+800万+1300万像素"
+                },
+                {
+                  "bottom_title": "5.97英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "中小屏",
+                  "top_title": "中小屏",
+                  "value": "5.97英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 5494,
+            "desc": "<font color='#ff4a00'>「6GB+128GB，限时赠价值99元圈铁耳机」</font>索尼4800万超广角三摄 / 骁龙712全球首发 / 全息幻彩机身 / 三星AMOLED屏幕 / 5.97”水滴屏 / 第五代屏幕指纹识别 / 多功能NFC / 红外遥控",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fb15abbeb281b0f485f34bdc35f7704d.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "2299",
+            "name": "小米9 SE 6GB+128GB",
+            "pms_name": "小米9 SE 6GB+128GB",
+            "price": "2299",
+            "product_id": "9380",
+            "release_date": 1550570442,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "92.4%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9SE",
+                "小米9",
+                "三摄,xiaomi9",
+                "战斗天使",
+                "王源",
+                "米9,米9SE,mi9SE,xiaomi9SE,mi9"
+              ],
+              "index_name": "小米9,se,手机,小米9SE",
+              "word": "小米9SE"
+            },
+            "service_mode": 0,
+            "sort": 3190
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9379\"}",
+              "log_code": "search_1_176#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9379&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001003,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "骁龙712八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "骁龙712八核",
+                  "top_title": "CPU",
+                  "value": "骁龙712八核"
+                },
+                {
+                  "bottom_title": "4800万+800万+1300万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "三摄像头",
+                  "top_title": "三摄像头",
+                  "value": "4800万+800万+1300万像素"
+                },
+                {
+                  "bottom_title": "5.97英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "中小屏",
+                  "top_title": "中小屏",
+                  "value": "5.97英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 5465,
+            "desc": "<font color='#ff4a00'>「6GB+64GB，限时赠价值99元圈铁耳机」</font>索尼4800万超广角三摄 / 骁龙712全球首发 / 全息幻彩机身 / 三星AMOLED屏幕 / 5.97”水滴屏 / 第五代屏幕指纹识别 / 多功能NFC / 红外遥控",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fe18e23817c7be122253928d5e606c6a.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "1999",
+            "name": "小米9 SE 6GB+64GB",
+            "pms_name": "小米9 SE 6GB+64GB",
+            "price": "1999",
+            "product_id": "9379",
+            "release_date": 1550570182,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/5f9034fa592b46b4e965fba89808c44d.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/89183fb0-e019-4e6a-875c-cd26a207575a.webp",
+                  "type": "gift",
+                  "w": 54
+                },
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "92.7%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米9SE",
+                "小米9",
+                "三摄,xiaomi9",
+                "战斗天使",
+                "王源",
+                "米9,米9SE,,mi9,xiaomi9,xiaomi9SE"
+              ],
+              "index_name": "小米9SE,小米9,se,手机",
+              "word": "小米9SE"
+            },
+            "service_mode": 0,
+            "sort": 3180
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"10000157\"}",
+              "log_code": "search_1_132#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=10000157&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001013,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": []
+            },
+            "class_sort": 500,
+            "comments_total": 1089,
+            "desc": "高颜值流光渐变色 / 5.84\"小水滴全面屏 / 后置1200万 AI 双摄 / 八核高性能处理器",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7c772c7f01baa2c1698690dd045c9771.jpg",
+            "is_multi_price": true,
+            "is_pk": false,
+            "market_price": "999",
+            "name": "小米Play",
+            "pms_name": "",
+            "price": "999",
+            "product_id": "10000157",
+            "release_date": 1559654133,
+            "sale_label": {
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "后置1200万 AI 双摄 "
+              ],
+              "index_name": "小米play,手机"
+            },
+            "service_mode": 0,
+            "sort": 3008
+          },
+          "view_type": "view_search_product"
+        },
+        {
+          "body": {
+            "action": {
+              "Login": false,
+              "extra": "{\"commodityId\":\"9619\"}",
+              "log_code": "search_1_107#seid=20:0:0:0:0:0:0:0:0:0&page=search&pid=9619&keyword=小米&product_source=&search_word=",
+              "path": "ShopPlugin://com.xiaomi.shop2.plugin.goodsdetail.GoodsDetailFragment?pluginId=101",
+              "stat": "",
+              "type": "plugin"
+            },
+            "cats": 103001013,
+            "class_parameters": {
+              "class_id": 1,
+              "class_name": "手机",
+              "class_sort": 500,
+              "list": [
+                {
+                  "bottom_title": "联发科P35八核",
+                  "icon": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f0c04e138bfed2b1ebb589de615236d1.png",
+                  "is_page_show": true,
+                  "name": "CPU",
+                  "parameter_id": 38,
+                  "search_title": "联发科P35八核",
+                  "top_title": "CPU",
+                  "value": "联发科P35八核"
+                },
+                {
+                  "bottom_title": "1200万+200万像素",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/7692726e7a1dd34a3b1b4ede8aca020d.png",
+                  "is_page_show": true,
+                  "name": "后置摄像头",
+                  "parameter_id": 3,
+                  "search_title": "双摄像头",
+                  "top_title": "双摄像头",
+                  "value": "1200万+200万像素"
+                },
+                {
+                  "bottom_title": "5.84英寸",
+                  "icon": "https://i8.mifile.cn/b2c-mimall-media/86a3bd46cf4f7f19daa2c3250cf30604.png",
+                  "is_page_show": true,
+                  "name": "屏幕尺寸",
+                  "parameter_id": 1,
+                  "search_title": "中小屏",
+                  "top_title": "中小屏",
+                  "value": "5.84英寸"
+                }
+              ]
+            },
+            "class_sort": 500,
+            "comments_total": 1017,
+            "desc": "<font color='#ff4a00'>「4GB+64GB 无卡版本，限时秒杀799元」</font>高颜值流光渐变色 / 5.84\"小水滴全面屏 / 后置1200万 AI 双摄 / 八核高性能处理器",
+            "image": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cabda043010dd456ad8ba6c87253def.jpg",
+            "is_multi_price": false,
+            "is_pk": true,
+            "market_price": "999",
+            "name": "小米 Play 4GB+64GB",
+            "pms_name": "小米 Play 4GB+64GB",
+            "price": "999",
+            "product_id": "9619",
+            "release_date": 1554689163,
+            "sale_label": {
+              "activity_label": [
+                {
+                  "h": 36,
+                  "img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/05c84c8d8ffebf7fd17c8838b5d81ee6.png",
+                  "img_url_webp": "http://i8.mifile.cn/v1/a1/767891fb-648d-4f6c-7425-3b63728a32de.webp",
+                  "type": "interestfree",
+                  "w": 84
+                }
+              ],
+              "holiday_label": {
+                "h": 0,
+                "w": 0
+              },
+              "icon": {
+                "h": 0,
+                "w": 0
+              }
+            },
+            "sale_name": "",
+            "sales_type": "",
+            "satisfy_per": "90.4%",
+            "score": 2,
+            "scrore_detail": "{\"手机\":{\"text\":\"手机\",\"weight\":0,\"gram_weight\":0}}",
+            "search_word": {
+              "alias": [
+                "小米",
+                "Play",
+                "手机",
+                "Play,高速流量,流量"
+              ],
+              "index_name": "手机,小米Play,小米play",
+              "word": "小米Play"
+            },
+            "service_mode": 0,
+            "sort": 3007
+          },
+          "view_type": "view_search_product"
+        }
+      ],
+      "total": 226
+    },
+    "result": "ok"
+  }

@@ -86,7 +86,7 @@ const render = async () => {
     
 
     //暂时存在缺陷 
-    $('.list_wrap').on('scroll',function(){
+    $(document).on('scroll',function(){
         let top = document.documentElement.scrollTop;
         if(top <= change[0]){
             $('.list-navbar ul li').eq(0).addClass('active').siblings().removeClass('active')

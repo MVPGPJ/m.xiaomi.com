@@ -63,3 +63,65 @@ li.active {
 li.active a{
     color: #fb7d34 !important;
 }
+
+.app-nav .nav-main .active{
+    color: #ff6700 !important;
+}
+.app-nav .icon-down.active {
+    border-color: #ff6700 transparent transparent;
+}
+.app-nav .icon {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    display: inline-block;
+    margin-left: .1rem;
+    vertical-align: middle;
+}
+.app-nav .icon-down {
+    border-width: .08rem .08rem 0;
+    border-color: #bdbdbd transparent transparent;
+}
+.app-classes-head .nav-specs .icon-down{
+    border-width: .08rem .08rem 0;
+    border-color: #bdbdbd transparent transparent;
+}
+.app-classes-head .nav-specs .active .icon-up {
+    border-width: 0 .08rem .08rem !important;
+    border-color: transparent transparent #ff6700 !important;
+}
+// @media 
+.border-1px:before {
+    width: 200%;
+    height: 200%;
+    transform: scale(.5);
+}
+.border-1px:before {
+    content: "";
+    pointer-events: none;
+    box-sizing: border-box;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1px solid #999;
+    transform-origin: 0 0;
+    border-color: rgba(0,0,0,.15);
+    border-radius: 4px;
+    // @include border(1px 1px 1px 1px)
+}
+.app-classes-head .nav-specs .active {
+    color: #ff6700 !important;
+    background: #fff !important;
+    padding-bottom: .8rem !important;
+    margin-top: 0 !important;
+}
+.app-classes-head .nav-specs .active::after{
+    content: "";
+    display: block;
+    background: #fff;
+    width: 100%;
+    height: 3px;
+    position: absolute;
+    z-index: 3;
+    bottom: -2px;
+}
